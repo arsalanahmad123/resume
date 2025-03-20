@@ -63,7 +63,7 @@ You can view the resume in the following ways:
 
 - **HTML5**: For structuring the content.
 - **CSS3**: For styling and responsiveness.
-- **Vercel**: For deployment and hosting.
+- **Github Pages**: For deployment and hosting.
 
 ---
 
